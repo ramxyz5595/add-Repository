@@ -2,7 +2,7 @@ public class Addition
 {
 public static void main(String args[])
 {
-int a=20,b=23;
-System.out.println("Addition of Two number :" +(a+b))
+
+System.out.println("Change code from other  computer");
 }
 }
